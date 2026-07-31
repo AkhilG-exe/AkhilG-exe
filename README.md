@@ -1,6 +1,8 @@
 # hey, i'm akhil 👋
 
-just a high schooler messing around with data, ai/ml, and neurotech scripts. usually breaking python environments or trying to figure out why my code won't compile.
+17, 
+
+data, ai/ml, neurotech, quant finance
 
 ### 🛠️ what i'm running:
 - **things i cant speak but can write in:** python, javascript, html/css, C++
