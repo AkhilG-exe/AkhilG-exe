@@ -1,14 +1,9 @@
-# hey, i'm akhil 👋
+# 💫 About Me:
+17,<br><br>data, ai/ml, neurotech, quant finance<br><br>    current hyperfixations: computational cognitive science, Quantitative Trading, and building things from scratch<br><br>    status: tracking a few things in private repos + sleep research (pretty intresting huh) 🤫<br><br>    oh yeah im building a stealth startup too with some cool guys - ex microsoft interns, DECA national finalists, AMC/IMO qualfiers, rated expert+ on codeforces...the next big thing is coming soon with seed!<br><br>feel free to look around or drop a follow if you want to see whatever random scripts i push next.
 
-17, 
 
-data, ai/ml, neurotech, quant finance
-
-### 🛠️ what i'm running:
-- **things i cant speak but can write in:** python, javascript, html/css, C++
-- **current hyperfixations:** computational cognitive science, Quantitative Trading, and building things from scratch
-- **status:** tracking a few things in private repos + sleep research (pretty intresting huh) 🤫
-
-- oh yeah im building a stealth startup too with some cool guys - ex microsoft interns, DECA national finalists, AMC/IMO qualfiers, rated expert+ on codeforces...the next big thing is coming soon with seed!
-
-feel free to look around or drop a follow if you want to see whatever random scripts i push next.
+#  My Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# Stats:
+![](https://streak-stats.demolab.com/?user=AkhilG-exe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkhilG-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
