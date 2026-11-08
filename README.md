@@ -1,1 +1,1 @@
-17, M, <br><br>data, nuerotech, Comp Nuero <br><br>    current hyperfixations: computational cognitive science, quant trading <br><br> https://akhil-rouge.vercel.app/
+17, M, <br><br>data, nuerotech, Comp Nuero <br><br> @Odyessey Prev Nasa, ThinkNuero, high school classroom <br><br> https://akhil-rouge.vercel.app/
